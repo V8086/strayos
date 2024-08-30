@@ -1,0 +1,7 @@
+.vscode
+old-lib-common-backup.zip
+
+*.exe
+*.o
+*.out
+*.bin
